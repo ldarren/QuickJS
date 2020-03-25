@@ -45,7 +45,7 @@ goto command line and type
 test it yourself
  ```
  # run benchmark with interpretor
- ./qjs tests/microbench
+ ./qjs tests/microbench.js
  
  # run benchmark with compiler
  ./qjsc -o microbench tests/microbench
